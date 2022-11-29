@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(239, 225, 209);
+}
+.titulo{
+    padding-bottom: 200px;
+}
+.titulo2{
+    padding-bottom: 250px;
+    color: white;
+}
+.titulo3{
+    padding-bottom: 250px;
+}
+footer{
+    background: gray;
+}
+.container{
+    padding-bottom: 2px;
+    text-align: center;
+}
+.accordion{
+    margin-top: 22px;
+}
+.card{
+    margin-top: 6rem;
+    margin-left: 3rem;
+}
+footer{
+    margin-top: 3rem;
+}
